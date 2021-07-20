@@ -7,65 +7,28 @@
     },
     {
         "name": "EB SHADER",
-        "descripstion": "These are the features of the EB Shader: 
-        realistic sky,
-        sun and moon
-        dynamic lightings and shadows
-        bluish fog
-        blurry deep water
-        moving grass and leaves ",
+        "descripstion": "These are the features of the EB Shader: \nrealistic sky\nsun and moo\ndynamic lightings and shadows \nbluish fog \nblurry deep water \nmoving grass and leaves ",
         "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/EB%20SHADER.mcpack",
         "fileExtendtion": "",
         "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/eb.png"
     },
     {
         "name": "Enhanced Biomes Survival",
-        "descripstion": "You want to play Minecraft Bedrock in Survival Mode, but with a more realistic environment? On this map you will find lots of little improvements to the landscape, from the top of the mountains, to the sandy dunes in front of a lighthouse. But even beyond the edited area, you will find a diverse variety of auto-generated Minecraft biomes, which make this seed ideal for playing survival mode.
-
-            Enhanced biomes: Village,
-        Beach,
-        Mountains,
-        Swamp and Plains,
-        which have been redesigned with birch and oak forests.
-
-        But that´ s not all,
-        there are some secret places to discover and maybe some hidden treasures ? Even
-        if this is true,
-        they cannot be reached without putting yourself in danger!",
-        "fileNameInAsset" : "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/Enhanced_Biomes.mcaddon",
+        "descripstion": "You want to play Minecraft Bedrock in Survival Mode, but with a more realistic environment? On this map you will find lots of little improvements to the landscape, from the top of the mountains, to the sandy dunes in front of a lighthouse. But even beyond the edited area, you will find a diverse variety of auto-generated Minecraft biomes, which make this seed ideal for playing survival mode. \nEnhanced biomes: Village, \nBeach, \nMountains, \nSwamp and Plains, \nwhich have been redesigned with birch and oak forests. \nBut that´ s not all, \nthere are some secret places to discover and maybe some hidden treasures ? Even \nif this is true, \nthey cannot be reached without putting yourself in danger!",
+        "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/Enhanced_Biomes.mcaddon",
         "fileExtendtion": "",
         "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/enhanced-biomes-survival_3.png"
     },
     {
         "name": "Enhanced Vanilla Shader",
-        "descripstion": "A Lightweight Minecraft Bedrock Shader for IOS and Android. From the Developer of Simple Shader and SS10. 
-        This shader only adds lighting improvements and shadows to keep it as lag free as possible
-        This shader was created to improve the torch light and shadows
-        for Minecraft Bedrock Edition.Even though it 's a rather small change it does create an entire new vibe and authenticity for the in-game graphics. If you are looking for a bit more realism, but still want to keep the original Minecraft look, then the Enhanced Vanilla Shader pack is a perfect option.",
+        "descripstion": "A Lightweight Minecraft Bedrock Shader for IOS and Android. From the Developer of Simple Shader and SS10. \nThis shader only adds lighting improvements and shadows to keep it as lag free as possible \nThis shader was created to improve the torch light and shadows \nfor Minecraft Bedrock Edition.Even though it 's a rather small change it does create an entire new vibe and authenticity for the in-game graphics. If you are looking for a bit more realism, but still want to keep the original Minecraft look, then the Enhanced Vanilla Shader pack is a perfect option.",
         "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/EnhancedVanilla.mcpack",
         "fileExtendtion": "",
         "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/enhancedVanilla.png"
     },
     {
         "name": "ESBE 2G Shader",
-        "descripstion": "ESBE_2G is a shader pack for Bedrock platforms makes your world more beautiful works on both mobile and pc.
-
-            You don 't have to preparation powerful device (iPhone 5s is enough to).
-
-            Enjoy your beautiful world!
-
-            Features
-
-            Lightweight depiction
-        Tone map using NTSC weighted average method
-        waving leaves & water reflection depiction
-        Sparkling stars,
-        Enhanced dusk
-        Beautiful clouds & aurora
-        Brightness varies depending on the direction
-        Compatible with both Mobile and PC(Win10)
-        No useless code
-        brightness 50 is recommended ",
+        "descripstion": "ESBE_2G is a shader pack for Bedrock platforms makes your world more beautiful works on both mobile and pc. \nYou don 't have to preparation powerful device (iPhone 5s is enough to). \nEnjoy your beautiful world! \nFeatures \nLightweight depiction \nTone map using NTSC weighted average method \nwaving leaves & water reflection depiction \nSparkling stars, \nEnhanced dusk \nBeautiful clouds & auror \nBrightness varies depending on the direction \nCompatible with both Mobile and PC(Win10) \nNo useless code \nbrightness 50 is recommended ",
         "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/ESBE_2G_3.2.mcpack",
         "fileExtendtion": "",
         "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/esb%202g.png"
@@ -86,23 +49,7 @@
     },
     {
         "name": "Natural Mystic Shaders",
-        "descripstion": "Natural Mystic Shaders is a shader pack for Minecraft Bedrock aiming to be as realistic as possible. It will change many aspects of your game, some which includes shadows, torch light, sunlight, moonlight and other.
-
-            Features
-        Shadows
-        Non - blocky clouds
-        Waves
-        for water and leaves(but not plants)
-        Camera - angle dependent transparency and specular light
-        for water
-        Improved torch light with flickering effect
-        Sunlight and moonlight colors with night time desaturation
-        Desaturation under a bad weather condition
-        Exposure adjustment,
-        contrast filter,
-        and tone mapping
-        Shader - based rendering of the moon.
-        ",
+        "descripstion": "Natural Mystic Shaders is a shader pack for Minecraft Bedrock aiming to be as realistic as possible. It will change many aspects of your game, some which includes shadows, torch light, sunlight, moonlight and other. \n Features \nShadows \nNon - blocky clouds \nWaves \nfor water and leaves(but not plants) \nCamera - angle dependent transparency and specular light \nfor water \nImproved torch light with flickering effect \nSunlight and moonlight colors with night time desaturation \nDesaturation under a bad weather condition \nExposure adjustment, \ncontrast filter, \nand tone mapping \nShader - based rendering of the moon.",
         "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/natural-mystic-shaders-1.7.0.mcpack",
         "fileExtendtion": "",
         "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/natural%20mystic.jpeg"
@@ -130,34 +77,14 @@
     },
     {
         "name": "UltraMax Shader",
-        "descripstion": "A shader pack that subtly change the way you look at Minecraft.
-
-            This shader pack is aimed to improve some of the basic lighting and visual projections by introducing a very unique way of rendering it in its own way.Colors are more vibrant,
-        surroundings are more atmospheric,
-        and even the overall gameplay.
-
-        Have a shader nice and pretty,
-        basic makes unique.
-
-        Proudly presented to you by Ultra Shader Foundation.
-        ",
+        "descripstion": "A shader pack that subtly change the way you look at Minecraft. \nThis shader pack is aimed to improve some of the basic lighting and visual projections by introducing a very unique way of rendering it in its own way.Colors are more vibrant, \nsurroundings are more atmospheric, \nand even the overall gameplay. \nHave a shader nice and pretty, \nbasic makes unique. \nProudly presented to you by Ultra Shader Foundation ",
         "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/UltraMax%20Shader%201.1.0%20(Black).mcpack",
         "fileExtendtion": "",
         "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/ultramax-shader_39.png"
     },
     {
         "name": "UltraMin Shader",
-        "descripstion": "WARNING!
-        This is not UltraMax Shader.The shader that you 're looking for is in a different post.
-
-        UltraMin Shader is a variation of UltraMax Shader aimed to give you an ultra lightweight and extremely close to vanilla based visuals,
-        the original intention of UltraLite Shader.In fact,
-        this shader is planned to be the continuation of the now obsolete and superseded UltraLite and Ultra10 Shader.
-
-        UltraMin Shader,
-        while maintaining fair performance,
-        is designed to be as compatible as possible to as many devices as possible.Apart from that,
-        UltraMin Shader will serves as UltraMax Shader 's experimental shader.",
+        "descripstion": "WARNING! \nThis is not UltraMax Shader.The shader that you 're looking for is in a different post. \nUltraMin Shader is a variation of UltraMax Shader aimed to give you an ultra lightweight and extremely close to vanilla based visuals, \nthe original intention of UltraLite Shader.In fact, \nthis shader is planned to be the continuation of the now obsolete and superseded UltraLite and Ultra10 Shader. \nUltraMin Shader, \nwhile maintaining fair performance,\nis designed to be as compatible as possible to as many devices as possible.Apart from that,\nUltraMin Shader will serves as UltraMax Shader 's experimental shader.",
         "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/UltraMin%20Shader%201.0.1.mcpack",
         "fileExtendtion": "",
         "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/ultramin-shader_3.png"
