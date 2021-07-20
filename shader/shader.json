@@ -1,9 +1,9 @@
 [{
         "name": "ChunkBounds Shaders",
         "descripstion": "Simple resource-pack, which shows you the boundaries of all chunks. Every Chunk is 16 blocks in the x and the z Direction. Useful on some Servers where you have to claim chunks to build on . This pack shows the bounds of every chunk in your world. The chunks are outlined by red markers, so they are very easy to spot, and especially so when it's nighttime. Finding the exact positioning of chunks in Minecraft: Bedrock Edition can be quite tricky, but with this pack it's so much easier. It works for both Android, iOS and Windows 10. ",
-        "fileNameInAsset": "",
+        "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/ChunksBoundsShaders%20v.1.0.3.mcpack",
         "fileExtendtion": "",
-        "img": ""
+        "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/chunkbound.png"
     },
     {
         "name": "EB SHADER",
@@ -14,9 +14,9 @@
         bluish fog
         blurry deep water
         moving grass and leaves ",
-        "fileNameInAsset": "",
+        "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/EB%20SHADER.mcpack",
         "fileExtendtion": "",
-        "img": ""
+        "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/eb.png"
     },
     {
         "name": "Enhanced Biomes Survival",
@@ -32,9 +32,9 @@
         there are some secret places to discover and maybe some hidden treasures ? Even
         if this is true,
         they cannot be reached without putting yourself in danger!",
-        "fileNameInAsset" : "",
+        "fileNameInAsset" : "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/Enhanced_Biomes.mcaddon",
         "fileExtendtion": "",
-        "img": ""
+        "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/enhanced-biomes-survival_3.png"
     },
     {
         "name": "Enhanced Vanilla Shader",
@@ -42,9 +42,9 @@
         This shader only adds lighting improvements and shadows to keep it as lag free as possible
         This shader was created to improve the torch light and shadows
         for Minecraft Bedrock Edition.Even though it 's a rather small change it does create an entire new vibe and authenticity for the in-game graphics. If you are looking for a bit more realism, but still want to keep the original Minecraft look, then the Enhanced Vanilla Shader pack is a perfect option.",
-        "fileNameInAsset": "",
+        "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/EnhancedVanilla.mcpack",
         "fileExtendtion": "",
-        "img": ""
+        "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/enhancedVanilla.png"
     },
     {
         "name": "ESBE 2G Shader",
@@ -66,23 +66,23 @@
         Compatible with both Mobile and PC(Win10)
         No useless code
         brightness 50 is recommended ",
-        "fileNameInAsset": "",
+        "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/ESBE_2G_3.2.mcpack",
         "fileExtendtion": "",
-        "img": ""
+        "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/esb%202g.png"
     },
     {
         "name": "Fog Remover Shader",
         "descripstion": "Resource pack modifies the game by completely removing the rendering fog in your Minecraft world. Something similar is used in Optifine in Java Edition. Thus, it slightly increases your FPS.",
-        "fileNameInAsset": "",
+        "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/Fog%20Remover%20v2%20(Shader).mcpack",
         "fileExtendtion": "",
-        "img": ""
+        "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/fog%20remover.jpg"
     },
     {
         "name": "Move Shaders",
         "descripstion": "Surely you are bored with leaves, grass, and everything in Minecraft (Android/iOS), you definitely want leaves, grass, and everything in Minecraft (Android/iOS) to move / wave and you want to use shaders in Minecraft (Android/iOS) but you have a weak device with these shaders there can install these shaders in Minecraft (Android/iOS) And where can this make leaves, grass, and flowers in moving Minecraft (Android/iOS)",
-        "fileNameInAsset": "",
+        "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/Move%20Shaders%20v1.0.0.mcpack",
         "fileExtendtion": "",
-        "img": ""
+        "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/move%20shaders.png"
     },
     {
         "name": "Natural Mystic Shaders",
@@ -103,30 +103,30 @@
         and tone mapping
         Shader - based rendering of the moon.
         ",
-        "fileNameInAsset": "",
+        "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/natural-mystic-shaders-1.7.0.mcpack",
         "fileExtendtion": "",
-        "img": ""
+        "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/natural%20mystic.jpeg"
     },
     {
         "name": "Parallax Shaders",
         "descripstion": "Parallax shaders is a project that aims to bring the most dynamic and realistic shaders bedrock edition has seen. Many shaders are too dark or too washed out and that ends with parallax shaders. It introduces techniques that bring us the closest to static ray tracing through rigorous testing.",
-        "fileNameInAsset": "",
+        "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/Parallax%20Shaders.mcpack",
         "fileExtendtion": "",
-        "img": ""
+        "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/parallax.png"
     },
     {
         "name": "Simple Shader",
         "descripstion": "Simple Shader is a lightweight shader pack which is the perfect solution for anyone who have got a low-end device and haven't been able to use any of the other shader packs. It's a much more simple pack which still got some of the essential features (such as more realistic skies) to make Minecraft much more beautiful and faithfully realistic. ",
-        "fileNameInAsset": "",
+        "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/SimpleShader.mcpack",
         "fileExtendtion": "",
-        "img": ""
+        "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/simple.png"
     },
     {
         "name": "SSPE SHADERS ",
         "descripstion": "SSPE shaders will improve visual effects in Minecraft PE to make a game look better. Things that were changed much: lightning, water, and lava, plants swaying in the wind. Basically, you can expect to receive all of the default set of improvements that other shader packs have to offer. This shader will work only on Android and iOS devices, Win 10 users must download a separate version. You also can't use them with a custom texture pack.",
-        "fileNameInAsset": "",
+        "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/sspe15_4.mcpack",
         "fileExtendtion": "",
-        "img": ""
+        "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/sspe%20shader.jpg"
     },
     {
         "name": "UltraMax Shader",
@@ -141,9 +141,9 @@
 
         Proudly presented to you by Ultra Shader Foundation.
         ",
-        "fileNameInAsset": "",
+        "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/UltraMax%20Shader%201.1.0%20(Black).mcpack",
         "fileExtendtion": "",
-        "img": ""
+        "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/ultramax-shader_39.png"
     },
     {
         "name": "UltraMin Shader",
@@ -158,8 +158,8 @@
         while maintaining fair performance,
         is designed to be as compatible as possible to as many devices as possible.Apart from that,
         UltraMin Shader will serves as UltraMax Shader 's experimental shader.",
-        "fileNameInAsset": "",
+        "fileNameInAsset": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/file/UltraMin%20Shader%201.0.1.mcpack",
         "fileExtendtion": "",
-        "img": ""
+        "img": "https://github.com/tranlong45200/shader-mod-pe/raw/main/shader/img/ultramin-shader_3.png"
     }
 ]
